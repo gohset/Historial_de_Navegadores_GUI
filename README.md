@@ -1,7 +1,8 @@
 # Historial_de_Navegadores_GUI
 Desencripta todas las DB [Historial] de los navegadores web.
 
-![formulario_trasparente2](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/8db6bff0-e098-45e7-ab8a-1e9d8389194b)
+![recherche internet  3D](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/5f188364-5250-46c8-bf15-e1dfcfef0b30)
+
 
 
 ![formulario_trasparente3](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/6086168d-1a0b-4c83-8e49-0444a4772390)
