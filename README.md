@@ -11,8 +11,11 @@ Desencripta todas las DB [Historial] de los navegadores web.
 ## CAMBIOS REALIZADOS
 
 -> Permite realizar la búsqueda del Historial [bases de datos] de los navegadores.
+
 -> Cuenta con una interfaz transparente.
+
 -> Todos los componente están acoplados a la interfaz principal para obtener esa transparencia.
+
 -> Se utiliza SQLite para leer los DB de los navegadores.
 Archivos necesario: SQLite.Interop.dll y System.Data.SQLite.dll
 
