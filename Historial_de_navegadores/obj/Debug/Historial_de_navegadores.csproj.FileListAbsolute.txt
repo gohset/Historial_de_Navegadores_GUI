@@ -1,0 +1,12 @@
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\bin\Debug\Historial_de_navegadores.exe.config
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\bin\Debug\Historial_de_navegadores.exe
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\bin\Debug\Historial_de_navegadores.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.Form1.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.Properties.Resources.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.csproj.GenerateResource.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.exe
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\bin\Debug\System.Data.SQLite.dll
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Historial_de_navegadores\Historial_de_navegadores\obj\Debug\Historial_de_navegadores.csproj.CopyComplete
