@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Historial_de_navegadores", "Historial_de_navegadores\Historial_de_navegadores.csproj", "{715990FE-7BEB-4860-A110-E3F7CBEF2A1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{30E637CA-1A68-49CC-8242-7E3595A6D378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715990FE-7BEB-4860-A110-E3F7CBEF2A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715990FE-7BEB-4860-A110-E3F7CBEF2A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715990FE-7BEB-4860-A110-E3F7CBEF2A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715990FE-7BEB-4860-A110-E3F7CBEF2A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2107A0FB-0895-4EC3-9C02-ACD48C389233}
+	EndGlobalSection
+EndGlobal
