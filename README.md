@@ -1,13 +1,12 @@
 # Historial_de_Navegadores_GUI
 Desencripta todas las DB [Historial] de los navegadores web.
 
-![recherche internet  3D](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/5f188364-5250-46c8-bf15-e1dfcfef0b30)
 
 
 
-![formulario_trasparente3](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/6086168d-1a0b-4c83-8e49-0444a4772390)
+![formulario_trasparente2](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/398a9924-d04a-40fc-8872-84324814c5d9)
 
-![formulario_trasparente4](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/f67631c2-f6fe-4c3d-90e7-038ac941aded)
+
 
 
 ## CAMBIOS REALIZADOS
@@ -20,6 +19,10 @@ Desencripta todas las DB [Historial] de los navegadores web.
 
 -> Se utiliza SQLite para leer los DB de los navegadores.
 Archivos necesario: SQLite.Interop.dll y System.Data.SQLite.dll
+
+![formulario_trasparente3](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/6086168d-1a0b-4c83-8e49-0444a4772390)
+
+![formulario_trasparente4](https://github.com/gohset/Historial_de_Navegadores_GUI/assets/76674375/f67631c2-f6fe-4c3d-90e7-038ac941aded)
 
 ## FUTUROS CAMBIOS
 
